@@ -4,7 +4,7 @@
 - **Date**: YYYY-MM-DD
 - **Duration**: [e.g., 60 minutes]
 - **Format**: [e.g., Text conversation, Video call, etc.]
-- **Main Topics**: [List the primary topics covered]
+- **Main Topics**: [List the primary English topics covered]
 
 ## Questions Asked by Student
 1. [Question 1]
@@ -13,7 +13,7 @@
 
 ## Student's Initial Understanding
 - What did the student already know about the topics?
-- What misconceptions did the student have?
+- What misconceptions did the student have about English usage?
 
 ## Concepts Explained
 - [Concept 1]: [Brief explanation provided]
@@ -23,7 +23,7 @@
 ## Student's Responses to Comprehension Checks
 - How did the student respond to follow-up questions?
 - What did they understand well?
-- Where did they struggle?
+- Where did they struggle with English concepts?
 
 ## Knowledge Gaps Identified
 - [Gap 1]: [Description]
@@ -34,9 +34,9 @@
 - [Topic 1]: [Confidence level - High/Medium-High/Medium]
 - [Topic 2]: [Confidence level - High/Medium-High/Medium]
 
-## Practice Problems Worked Through
-- [Problem 1]: [Description and approach]
-- [Problem 2]: [Description and approach]
+## Practice Problems/Exercises Worked Through
+- [Exercise 1]: [Description and approach]
+- [Exercise 2]: [Description and approach]
 
 ## Key Insights Demonstrated
 - [Insight 1]: [Description]
@@ -54,3 +54,11 @@
 ## Notes for Next Session
 - [Note 1]
 - [Note 2]
+
+## Vocabulary Introduced
+- [Word/phrase 1]: [Definition and usage]
+- [Word/phrase 2]: [Definition and usage]
+
+## Grammar Points Covered
+- [Grammar rule 1]: [Explanation and examples]
+- [Grammar rule 2]: [Explanation and examples]
