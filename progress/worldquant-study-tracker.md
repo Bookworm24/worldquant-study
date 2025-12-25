@@ -1,4 +1,4 @@
-# WorldQuant Study Tracker
+# English Study Tracker
 
 **Last Updated**: 2025-12-25
 
@@ -12,31 +12,35 @@
 - **Target Completion**: [To be determined]
 - **Study Frequency**: [e.g., Daily/3x per week]
 
-## WorldQuant Concepts Progress Summary
+## English Learning Progress Summary
 
 | Domain | Topics | Mastered | In Progress | Notes |
 |--------|--------|----------|-------------|-------|
-| A. Data Fields & Datasets | [List topics] | 0/10 | [ ] | Basic understanding needed |
-| B. Factor Construction | [List topics] | 0/10 | [ ] | Core concepts |
-| C. Simulation & Testing | [List topics] | 0/10 | [ ] | Evaluation metrics |
-| D. Portfolio Construction | [List topics] | 0/8 | [ ] | Advanced concepts |
-| E. Advanced Concepts | [List topics] | 0/8 | [ ] | Research-level topics |
+| A. Grammar Fundamentals | [Parts of speech, tenses, sentence structure, etc.] | 0/15 | [ ] | Basic understanding needed |
+| B. Vocabulary Building | [Word families, synonyms, idioms, etc.] | 0/20 | [ ] | Core vocabulary |
+| C. Reading Comprehension | [Skimming, scanning, inference, etc.] | 0/10 | [ ] | Comprehension skills |
+| D. Writing Skills | [Paragraph structure, essays, grammar application, etc.] | 0/12 | [ ] | Written communication |
+| E. Speaking & Pronunciation | [Phonetics, fluency, accent reduction, etc.] | 0/8 | [ ] | Verbal communication |
+| F. Listening Skills | [Comprehension, note-taking, etc.] | 0/8 | [ ] | Aural comprehension |
 
 ## Topics Mastered
 
-### A. Data Fields & Datasets
+### A. Grammar Fundamentals
 - None yet
 
-### B. Factor Construction
+### B. Vocabulary Building
 - None yet
 
-### C. Simulation & Testing
+### C. Reading Comprehension
 - None yet
 
-### D. Portfolio Construction
+### D. Writing Skills
 - None yet
 
-### E. Advanced Concepts
+### E. Speaking & Pronunciation
+- None yet
+
+### F. Listening Skills
 - None yet
 
 ## Knowledge Gaps
@@ -52,20 +56,20 @@
 
 ## Study Plan
 
-### Phase 1: Fundamentals (Week 1-2)
-- Focus on data fields and basic factor construction
-- Understand WorldQuant platform basics
-- Learn syntax and operators
+### Phase 1: Fundamentals (Week 1-3)
+- Focus on basic grammar rules and sentence structure
+- Build essential vocabulary
+- Learn pronunciation basics
 
-### Phase 2: Application (Week 3-4) 
-- Work on simulation and testing concepts
-- Practice building simple factors
-- Learn evaluation metrics
+### Phase 2: Application (Week 4-6) 
+- Work on reading comprehension techniques
+- Practice writing simple paragraphs
+- Expand vocabulary range
 
-### Phase 3: Advanced (Week 5+)
-- Portfolio construction techniques
-- Advanced factor design
-- Optimization strategies
+### Phase 3: Advanced (Week 7+) 
+- Advanced grammar concepts
+- Complex writing skills
+- Fluency in speaking and listening
 
 ## Recently Resolved Gaps
 - None yet
@@ -73,4 +77,4 @@
 ## Notes
 - This tracker will be updated after each learning session
 - Use this to identify areas that need more focus
-- Track progress toward WorldQuant mastery
+- Track progress toward English mastery
